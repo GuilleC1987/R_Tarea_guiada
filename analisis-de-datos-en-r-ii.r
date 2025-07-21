@@ -2,14 +2,14 @@
  "cells": [
   {
    "cell_type": "markdown",
-   "id": "1988e662",
+   "id": "611723a6",
    "metadata": {
     "id": "tc3DMmNsSUH0",
     "papermill": {
-     "duration": 0.014218,
-     "end_time": "2025-07-18T12:54:21.004015",
+     "duration": 0.012344,
+     "end_time": "2025-07-21T02:21:03.395853",
      "exception": false,
-     "start_time": "2025-07-18T12:54:20.989797",
+     "start_time": "2025-07-21T02:21:03.383509",
      "status": "completed"
     },
     "tags": []
@@ -55,14 +55,14 @@
   },
   {
    "cell_type": "markdown",
-   "id": "bf57a19f",
+   "id": "89c5bc24",
    "metadata": {
     "id": "ESPG5yduS29f",
     "papermill": {
-     "duration": 0.01257,
-     "end_time": "2025-07-18T12:54:21.029036",
+     "duration": 0.010415,
+     "end_time": "2025-07-21T02:21:03.416577",
      "exception": false,
-     "start_time": "2025-07-18T12:54:21.016466",
+     "start_time": "2025-07-21T02:21:03.406162",
      "status": "completed"
     },
     "tags": []
@@ -165,14 +165,14 @@
   },
   {
    "cell_type": "markdown",
-   "id": "f919ab0e",
+   "id": "c1183712",
    "metadata": {
     "id": "EhZln9hYWPXt",
     "papermill": {
-     "duration": 0.012558,
-     "end_time": "2025-07-18T12:54:21.054714",
+     "duration": 0.010209,
+     "end_time": "2025-07-21T02:21:03.437038",
      "exception": false,
-     "start_time": "2025-07-18T12:54:21.042156",
+     "start_time": "2025-07-21T02:21:03.426829",
      "status": "completed"
     },
     "tags": []
@@ -337,14 +337,14 @@
   },
   {
    "cell_type": "markdown",
-   "id": "0b0d58e9",
+   "id": "da1d4830",
    "metadata": {
     "id": "T2nlrHYSXC0J",
     "papermill": {
-     "duration": 0.011948,
-     "end_time": "2025-07-18T12:54:21.079834",
+     "duration": 0.010437,
+     "end_time": "2025-07-21T02:21:03.459166",
      "exception": false,
-     "start_time": "2025-07-18T12:54:21.067886",
+     "start_time": "2025-07-21T02:21:03.448729",
      "status": "completed"
     },
     "tags": []
@@ -454,14 +454,14 @@
   },
   {
    "cell_type": "markdown",
-   "id": "2094f66c",
+   "id": "4e3f5711",
    "metadata": {
     "id": "BkP-U-IiZLyv",
     "papermill": {
-     "duration": 0.01185,
-     "end_time": "2025-07-18T12:54:21.103530",
+     "duration": 0.010147,
+     "end_time": "2025-07-21T02:21:03.479897",
      "exception": false,
-     "start_time": "2025-07-18T12:54:21.091680",
+     "start_time": "2025-07-21T02:21:03.469750",
      "status": "completed"
     },
     "tags": []
@@ -503,13 +503,13 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "73f74355",
+   "id": "0d072351",
    "metadata": {
     "papermill": {
-     "duration": 0.011784,
-     "end_time": "2025-07-18T12:54:21.127185",
+     "duration": 0.011156,
+     "end_time": "2025-07-21T02:21:03.501148",
      "exception": false,
-     "start_time": "2025-07-18T12:54:21.115401",
+     "start_time": "2025-07-21T02:21:03.489992",
      "status": "completed"
     },
     "tags": []
@@ -520,21 +520,21 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "2d88a867",
+   "id": "e73636a0",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-18T12:54:21.154948Z",
-     "iopub.status.busy": "2025-07-18T12:54:21.152702Z",
-     "iopub.status.idle": "2025-07-18T12:54:21.606635Z",
-     "shell.execute_reply": "2025-07-18T12:54:21.603621Z"
+     "iopub.execute_input": "2025-07-21T02:21:03.525984Z",
+     "iopub.status.busy": "2025-07-21T02:21:03.523813Z",
+     "iopub.status.idle": "2025-07-21T02:21:03.960908Z",
+     "shell.execute_reply": "2025-07-21T02:21:03.958837Z"
     },
     "id": "edOaWFZ0bDUT",
     "outputId": "1eb9ced8-d92f-4223-fcd6-96c68fbf8705",
     "papermill": {
-     "duration": 0.471323,
-     "end_time": "2025-07-18T12:54:21.610187",
+     "duration": 0.451867,
+     "end_time": "2025-07-21T02:21:03.963329",
      "exception": false,
-     "start_time": "2025-07-18T12:54:21.138864",
+     "start_time": "2025-07-21T02:21:03.511462",
      "status": "completed"
     },
     "tags": []
@@ -565,7 +565,7 @@
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "[1] \"2025-07-18\"\n"
+      "[1] \"2025-07-21\"\n"
      ]
     },
     {
@@ -579,7 +579,7 @@
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "[1] -225\n"
+      "[1] -228\n"
      ]
     }
    ],
@@ -602,14 +602,14 @@
   },
   {
    "cell_type": "markdown",
-   "id": "dab9ac67",
+   "id": "d2545337",
    "metadata": {
     "id": "a138556a-b9d3-4850-ba94-135e7f85f407",
     "papermill": {
-     "duration": 0.014185,
-     "end_time": "2025-07-18T12:54:21.637719",
+     "duration": 0.011423,
+     "end_time": "2025-07-21T02:21:03.985898",
      "exception": false,
-     "start_time": "2025-07-18T12:54:21.623534",
+     "start_time": "2025-07-21T02:21:03.974475",
      "status": "completed"
     },
     "tags": []
@@ -643,13 +643,13 @@
   {
    "cell_type": "code",
    "execution_count": 2,
-   "id": "6d9348ea",
+   "id": "62d509a9",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-18T12:54:21.708031Z",
-     "iopub.status.busy": "2025-07-18T12:54:21.667334Z",
-     "iopub.status.idle": "2025-07-18T12:54:22.179661Z",
-     "shell.execute_reply": "2025-07-18T12:54:22.177768Z"
+     "iopub.execute_input": "2025-07-21T02:21:04.046403Z",
+     "iopub.status.busy": "2025-07-21T02:21:04.009312Z",
+     "iopub.status.idle": "2025-07-21T02:21:04.468339Z",
+     "shell.execute_reply": "2025-07-21T02:21:04.466416Z"
     },
     "executionCancelledAt": null,
     "executionTime": 330,
@@ -658,10 +658,10 @@
     "lastScheduledRunId": null,
     "lastSuccessfullyExecutedCode": "# We've loaded your first few packages for you in the first cell. Please feel free to add as many cells as you like!\nsuppressMessages(library(dplyr)) # This line is required to check your answer correctly\noptions(readr.show_types = FALSE) # This line is required to check your answer correctly\nlibrary(readr)\nlibrary(readxl)\nlibrary(stringr)\n\n",
     "papermill": {
-     "duration": 0.530858,
-     "end_time": "2025-07-18T12:54:22.182303",
+     "duration": 0.475377,
+     "end_time": "2025-07-21T02:21:04.472223",
      "exception": false,
-     "start_time": "2025-07-18T12:54:21.651445",
+     "start_time": "2025-07-21T02:21:03.996846",
      "status": "completed"
     },
     "tags": [],
@@ -695,20 +695,20 @@
   {
    "cell_type": "code",
    "execution_count": 3,
-   "id": "3aa83c73",
+   "id": "1e6becc6",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-18T12:54:22.210514Z",
-     "iopub.status.busy": "2025-07-18T12:54:22.208756Z",
-     "iopub.status.idle": "2025-07-18T12:54:22.230894Z",
-     "shell.execute_reply": "2025-07-18T12:54:22.228686Z"
+     "iopub.execute_input": "2025-07-21T02:21:04.499165Z",
+     "iopub.status.busy": "2025-07-21T02:21:04.497103Z",
+     "iopub.status.idle": "2025-07-21T02:21:04.524989Z",
+     "shell.execute_reply": "2025-07-21T02:21:04.521852Z"
     },
     "id": "ROKuCT4HQKIL",
     "papermill": {
-     "duration": 0.039322,
-     "end_time": "2025-07-18T12:54:22.233716",
+     "duration": 0.045185,
+     "end_time": "2025-07-21T02:21:04.528166",
      "exception": false,
-     "start_time": "2025-07-18T12:54:22.194394",
+     "start_time": "2025-07-21T02:21:04.482981",
      "status": "completed"
     },
     "tags": []
@@ -730,14 +730,14 @@
   },
   {
    "cell_type": "markdown",
-   "id": "86f35c22",
+   "id": "0a8c1367",
    "metadata": {
     "id": "k3bO5m0WSE3w",
     "papermill": {
-     "duration": 0.012262,
-     "end_time": "2025-07-18T12:54:22.259120",
+     "duration": 0.012157,
+     "end_time": "2025-07-21T02:21:04.553196",
      "exception": false,
-     "start_time": "2025-07-18T12:54:22.246858",
+     "start_time": "2025-07-21T02:21:04.541039",
      "status": "completed"
     },
     "tags": []
@@ -749,20 +749,20 @@
   {
    "cell_type": "code",
    "execution_count": 4,
-   "id": "792d8b0e",
+   "id": "5db7cb8d",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-18T12:54:22.287619Z",
-     "iopub.status.busy": "2025-07-18T12:54:22.285979Z",
-     "iopub.status.idle": "2025-07-18T12:54:23.118903Z",
-     "shell.execute_reply": "2025-07-18T12:54:23.116684Z"
+     "iopub.execute_input": "2025-07-21T02:21:04.581613Z",
+     "iopub.status.busy": "2025-07-21T02:21:04.579835Z",
+     "iopub.status.idle": "2025-07-21T02:21:05.440809Z",
+     "shell.execute_reply": "2025-07-21T02:21:05.438308Z"
     },
     "id": "TEfvYoFsSD8B",
     "papermill": {
-     "duration": 0.850406,
-     "end_time": "2025-07-18T12:54:23.121829",
+     "duration": 0.879056,
+     "end_time": "2025-07-21T02:21:05.443680",
      "exception": false,
-     "start_time": "2025-07-18T12:54:22.271423",
+     "start_time": "2025-07-21T02:21:04.564624",
      "status": "completed"
     },
     "tags": []
@@ -805,19 +805,19 @@
   {
    "cell_type": "code",
    "execution_count": 5,
-   "id": "b3b5a6f2",
+   "id": "f5e6efe5",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-18T12:54:23.151797Z",
-     "iopub.status.busy": "2025-07-18T12:54:23.149750Z",
-     "iopub.status.idle": "2025-07-18T12:54:23.197011Z",
-     "shell.execute_reply": "2025-07-18T12:54:23.194272Z"
+     "iopub.execute_input": "2025-07-21T02:21:05.472333Z",
+     "iopub.status.busy": "2025-07-21T02:21:05.470039Z",
+     "iopub.status.idle": "2025-07-21T02:21:05.512130Z",
+     "shell.execute_reply": "2025-07-21T02:21:05.509572Z"
     },
     "papermill": {
-     "duration": 0.066083,
-     "end_time": "2025-07-18T12:54:23.200433",
+     "duration": 0.060729,
+     "end_time": "2025-07-21T02:21:05.515949",
      "exception": false,
-     "start_time": "2025-07-18T12:54:23.134350",
+     "start_time": "2025-07-21T02:21:05.455220",
      "status": "completed"
     },
     "tags": []
@@ -891,19 +891,19 @@
   {
    "cell_type": "code",
    "execution_count": 6,
-   "id": "0eb87156",
+   "id": "4f351bf6",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-18T12:54:23.234964Z",
-     "iopub.status.busy": "2025-07-18T12:54:23.232763Z",
-     "iopub.status.idle": "2025-07-18T12:54:23.274055Z",
-     "shell.execute_reply": "2025-07-18T12:54:23.271175Z"
+     "iopub.execute_input": "2025-07-21T02:21:05.545137Z",
+     "iopub.status.busy": "2025-07-21T02:21:05.542668Z",
+     "iopub.status.idle": "2025-07-21T02:21:05.586676Z",
+     "shell.execute_reply": "2025-07-21T02:21:05.584146Z"
     },
     "papermill": {
-     "duration": 0.06451,
-     "end_time": "2025-07-18T12:54:23.278238",
+     "duration": 0.077216,
+     "end_time": "2025-07-21T02:21:05.605065",
      "exception": false,
-     "start_time": "2025-07-18T12:54:23.213728",
+     "start_time": "2025-07-21T02:21:05.527849",
      "status": "completed"
     },
     "tags": []
@@ -977,19 +977,19 @@
   {
    "cell_type": "code",
    "execution_count": 7,
-   "id": "2f92f982",
+   "id": "e7d08894",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-18T12:54:23.311489Z",
-     "iopub.status.busy": "2025-07-18T12:54:23.309524Z",
-     "iopub.status.idle": "2025-07-18T12:54:23.341726Z",
-     "shell.execute_reply": "2025-07-18T12:54:23.339763Z"
+     "iopub.execute_input": "2025-07-21T02:21:05.635222Z",
+     "iopub.status.busy": "2025-07-21T02:21:05.633310Z",
+     "iopub.status.idle": "2025-07-21T02:21:05.667996Z",
+     "shell.execute_reply": "2025-07-21T02:21:05.665696Z"
     },
     "papermill": {
-     "duration": 0.052959,
-     "end_time": "2025-07-18T12:54:23.344344",
+     "duration": 0.053591,
+     "end_time": "2025-07-21T02:21:05.670981",
      "exception": false,
-     "start_time": "2025-07-18T12:54:23.291385",
+     "start_time": "2025-07-21T02:21:05.617390",
      "status": "completed"
     },
     "tags": []
@@ -1063,19 +1063,19 @@
   {
    "cell_type": "code",
    "execution_count": 8,
-   "id": "c145b314",
+   "id": "d4405f10",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-18T12:54:23.376020Z",
-     "iopub.status.busy": "2025-07-18T12:54:23.374322Z",
-     "iopub.status.idle": "2025-07-18T12:54:23.430443Z",
-     "shell.execute_reply": "2025-07-18T12:54:23.428544Z"
+     "iopub.execute_input": "2025-07-21T02:21:05.700920Z",
+     "iopub.status.busy": "2025-07-21T02:21:05.698966Z",
+     "iopub.status.idle": "2025-07-21T02:21:05.770332Z",
+     "shell.execute_reply": "2025-07-21T02:21:05.767857Z"
     },
     "papermill": {
-     "duration": 0.075599,
-     "end_time": "2025-07-18T12:54:23.433808",
+     "duration": 0.089949,
+     "end_time": "2025-07-21T02:21:05.773524",
      "exception": false,
-     "start_time": "2025-07-18T12:54:23.358209",
+     "start_time": "2025-07-21T02:21:05.683575",
      "status": "completed"
     },
     "tags": []
@@ -1165,19 +1165,19 @@
   {
    "cell_type": "code",
    "execution_count": 9,
-   "id": "de591893",
+   "id": "cb63e162",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-18T12:54:23.465641Z",
-     "iopub.status.busy": "2025-07-18T12:54:23.463915Z",
-     "iopub.status.idle": "2025-07-18T12:58:42.975295Z",
-     "shell.execute_reply": "2025-07-18T12:58:42.973020Z"
+     "iopub.execute_input": "2025-07-21T02:21:05.804309Z",
+     "iopub.status.busy": "2025-07-21T02:21:05.802273Z",
+     "iopub.status.idle": "2025-07-21T02:25:25.246438Z",
+     "shell.execute_reply": "2025-07-21T02:25:25.244249Z"
     },
     "papermill": {
-     "duration": 259.530488,
-     "end_time": "2025-07-18T12:58:42.978665",
+     "duration": 259.46333,
+     "end_time": "2025-07-21T02:25:25.249627",
      "exception": false,
-     "start_time": "2025-07-18T12:54:23.448177",
+     "start_time": "2025-07-21T02:21:05.786297",
      "status": "completed"
     },
     "tags": []
@@ -1297,19 +1297,19 @@
   {
    "cell_type": "code",
    "execution_count": 10,
-   "id": "f7da4652",
+   "id": "030dfb55",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-18T12:58:43.026176Z",
-     "iopub.status.busy": "2025-07-18T12:58:43.024097Z",
-     "iopub.status.idle": "2025-07-18T12:58:43.109533Z",
-     "shell.execute_reply": "2025-07-18T12:58:43.107259Z"
+     "iopub.execute_input": "2025-07-21T02:25:25.295879Z",
+     "iopub.status.busy": "2025-07-21T02:25:25.293479Z",
+     "iopub.status.idle": "2025-07-21T02:25:25.382698Z",
+     "shell.execute_reply": "2025-07-21T02:25:25.380001Z"
     },
     "papermill": {
-     "duration": 0.11621,
-     "end_time": "2025-07-18T12:58:43.112268",
+     "duration": 0.122376,
+     "end_time": "2025-07-21T02:25:25.385740",
      "exception": false,
-     "start_time": "2025-07-18T12:58:42.996058",
+     "start_time": "2025-07-21T02:25:25.263364",
      "status": "completed"
     },
     "tags": []
@@ -1340,19 +1340,19 @@
   {
    "cell_type": "code",
    "execution_count": 11,
-   "id": "c3fd8d41",
+   "id": "c2c64937",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-18T12:58:43.146849Z",
-     "iopub.status.busy": "2025-07-18T12:58:43.145165Z",
-     "iopub.status.idle": "2025-07-18T12:58:59.200751Z",
-     "shell.execute_reply": "2025-07-18T12:58:59.198629Z"
+     "iopub.execute_input": "2025-07-21T02:25:25.415971Z",
+     "iopub.status.busy": "2025-07-21T02:25:25.413967Z",
+     "iopub.status.idle": "2025-07-21T02:25:40.711042Z",
+     "shell.execute_reply": "2025-07-21T02:25:40.708563Z"
     },
     "papermill": {
-     "duration": 16.076923,
-     "end_time": "2025-07-18T12:58:59.203940",
+     "duration": 15.315238,
+     "end_time": "2025-07-21T02:25:40.713860",
      "exception": false,
-     "start_time": "2025-07-18T12:58:43.127017",
+     "start_time": "2025-07-21T02:25:25.398622",
      "status": "completed"
     },
     "tags": []
@@ -1489,7 +1489,7 @@
       "65/67                         \n",
       "66/67 [sample-tail]           \n",
       "67/67                         \n",
-      "/usr/bin/pandoc +RTS -K512m -RTS diagnosis_temp.knit.md --to html4 --from markdown+autolink_bare_uris+tex_math_single_backslash --output /tmp/Rtmp1wbc5u/diagnostico_datos.html --lua-filter /usr/local/lib/R/site-library/rmarkdown/rmarkdown/lua/pagebreak.lua --lua-filter /usr/local/lib/R/site-library/rmarkdown/rmarkdown/lua/latex-div.lua --embed-resources --standalone --variable bs3=TRUE --section-divs --template /usr/local/lib/R/site-library/rmarkdown/rmd/h/default.html --no-highlight --variable highlightjs=1 --variable theme=bootstrap --css /usr/local/lib/R/site-library/dlookr/resources/dlookr-bootstrap.css --mathjax --variable 'mathjax-url=https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML' --include-in-header /tmp/Rtmp1wbc5u/rmarkdown-strd456ca92f.html --variable code_folding=show --variable code_menu=1 --include-in-header header_temp.html --include-after-body /usr/local/lib/R/site-library/dlookr/resources/footer.html \n"
+      "/usr/bin/pandoc +RTS -K512m -RTS diagnosis_temp.knit.md --to html4 --from markdown+autolink_bare_uris+tex_math_single_backslash --output /tmp/RtmpVzoG2G/diagnostico_datos.html --lua-filter /usr/local/lib/R/site-library/rmarkdown/rmarkdown/lua/pagebreak.lua --lua-filter /usr/local/lib/R/site-library/rmarkdown/rmarkdown/lua/latex-div.lua --embed-resources --standalone --variable bs3=TRUE --section-divs --template /usr/local/lib/R/site-library/rmarkdown/rmd/h/default.html --no-highlight --variable highlightjs=1 --variable theme=bootstrap --css /usr/local/lib/R/site-library/dlookr/resources/dlookr-bootstrap.css --mathjax --variable 'mathjax-url=https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML' --include-in-header /tmp/RtmpVzoG2G/rmarkdown-strd1cdb018.html --variable code_folding=show --variable code_menu=1 --include-in-header header_temp.html --include-after-body /usr/local/lib/R/site-library/dlookr/resources/footer.html \n"
      ]
     }
    ],
@@ -1500,19 +1500,19 @@
   {
    "cell_type": "code",
    "execution_count": 12,
-   "id": "59a0b287",
+   "id": "5f1c0221",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-18T12:58:59.238624Z",
-     "iopub.status.busy": "2025-07-18T12:58:59.236854Z",
-     "iopub.status.idle": "2025-07-18T12:58:59.321177Z",
-     "shell.execute_reply": "2025-07-18T12:58:59.318491Z"
+     "iopub.execute_input": "2025-07-21T02:25:40.745202Z",
+     "iopub.status.busy": "2025-07-21T02:25:40.743337Z",
+     "iopub.status.idle": "2025-07-21T02:25:40.826564Z",
+     "shell.execute_reply": "2025-07-21T02:25:40.824524Z"
     },
     "papermill": {
-     "duration": 0.104683,
-     "end_time": "2025-07-18T12:58:59.323899",
+     "duration": 0.10166,
+     "end_time": "2025-07-21T02:25:40.829169",
      "exception": false,
-     "start_time": "2025-07-18T12:58:59.219216",
+     "start_time": "2025-07-21T02:25:40.727509",
      "status": "completed"
     },
     "tags": []
@@ -1540,19 +1540,19 @@
   {
    "cell_type": "code",
    "execution_count": 13,
-   "id": "8ddeff7e",
+   "id": "1533066f",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-18T12:58:59.390632Z",
-     "iopub.status.busy": "2025-07-18T12:58:59.388870Z",
-     "iopub.status.idle": "2025-07-18T12:59:01.963394Z",
-     "shell.execute_reply": "2025-07-18T12:59:01.960698Z"
+     "iopub.execute_input": "2025-07-21T02:25:40.896925Z",
+     "iopub.status.busy": "2025-07-21T02:25:40.895290Z",
+     "iopub.status.idle": "2025-07-21T02:25:43.381924Z",
+     "shell.execute_reply": "2025-07-21T02:25:43.379067Z"
     },
     "papermill": {
-     "duration": 2.59624,
-     "end_time": "2025-07-18T12:59:01.967159",
+     "duration": 2.505651,
+     "end_time": "2025-07-21T02:25:43.385383",
      "exception": false,
-     "start_time": "2025-07-18T12:58:59.370919",
+     "start_time": "2025-07-21T02:25:40.879732",
      "status": "completed"
     },
     "tags": []
@@ -1565,7 +1565,7 @@
       "\u001b[90m# A tibble: 1 × 4\u001b[39m\n",
       "  vars       statistic  p_value sample\n",
       "  \u001b[3m\u001b[90m<chr>\u001b[39m\u001b[23m          \u001b[3m\u001b[90m<dbl>\u001b[39m\u001b[23m    \u001b[3m\u001b[90m<dbl>\u001b[39m\u001b[23m  \u001b[3m\u001b[90m<dbl>\u001b[39m\u001b[23m\n",
-      "\u001b[90m1\u001b[39m listing_id     0.926 2.90\u001b[90me\u001b[39m\u001b[31m-44\u001b[39m   \u001b[4m5\u001b[24m000\n"
+      "\u001b[90m1\u001b[39m listing_id     0.925 1.95\u001b[90me\u001b[39m\u001b[31m-44\u001b[39m   \u001b[4m5\u001b[24m000\n"
      ]
     },
     {
@@ -1592,19 +1592,19 @@
   {
    "cell_type": "code",
    "execution_count": 14,
-   "id": "a908bf2e",
+   "id": "79dbd7b7",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-18T12:59:02.008355Z",
-     "iopub.status.busy": "2025-07-18T12:59:02.006533Z",
-     "iopub.status.idle": "2025-07-18T12:59:16.976035Z",
-     "shell.execute_reply": "2025-07-18T12:59:16.974072Z"
+     "iopub.execute_input": "2025-07-21T02:25:43.419610Z",
+     "iopub.status.busy": "2025-07-21T02:25:43.417974Z",
+     "iopub.status.idle": "2025-07-21T02:25:57.995996Z",
+     "shell.execute_reply": "2025-07-21T02:25:57.991703Z"
     },
     "papermill": {
-     "duration": 14.993409,
-     "end_time": "2025-07-18T12:59:16.978914",
+     "duration": 14.59886,
+     "end_time": "2025-07-21T02:25:57.999419",
      "exception": false,
-     "start_time": "2025-07-18T12:59:01.985505",
+     "start_time": "2025-07-21T02:25:43.400559",
      "status": "completed"
     },
     "tags": []
@@ -1822,7 +1822,7 @@
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "/usr/bin/pandoc +RTS -K512m -RTS eda_paged_temp.knit.md --to html4 --from markdown+autolink_bare_uris+tex_math_single_backslash --output /kaggle/working/informe_eda.html --lua-filter /usr/local/lib/R/site-library/bookdown/rmarkdown/lua/custom-environment.lua --lua-filter /usr/local/lib/R/site-library/rmarkdown/rmarkdown/lua/pagebreak.lua --lua-filter /usr/local/lib/R/site-library/rmarkdown/rmarkdown/lua/latex-div.lua --embed-resources --standalone --wrap preserve --lua-filter /usr/local/lib/R/site-library/pagedown/resources/lua/uri-to-fn.lua --lua-filter /usr/local/lib/R/site-library/pagedown/resources/lua/loft.lua --lua-filter /usr/local/lib/R/site-library/pagedown/resources/lua/footnotes.lua --include-in-header /tmp/Rtmp1wbc5u/filed5b49c704.html '--mathjax=https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML' --metadata newpage_html_class=\"page-break-after\" --section-divs --table-of-contents --toc-depth 3 --template /usr/local/lib/R/site-library/pagedown/resources/html/paged.html --highlight-style pygments --css /usr/local/lib/R/site-library/dlookr/resources/css/custom-fonts.css --css /usr/local/lib/R/site-library/dlookr/resources/css/custom-page-blue.css --css /usr/local/lib/R/site-library/dlookr/resources/css/custom-blue.css --include-in-header /tmp/Rtmp1wbc5u/rmarkdown-strd2688700.html \n"
+      "/usr/bin/pandoc +RTS -K512m -RTS eda_paged_temp.knit.md --to html4 --from markdown+autolink_bare_uris+tex_math_single_backslash --output /kaggle/working/informe_eda.html --lua-filter /usr/local/lib/R/site-library/bookdown/rmarkdown/lua/custom-environment.lua --lua-filter /usr/local/lib/R/site-library/rmarkdown/rmarkdown/lua/pagebreak.lua --lua-filter /usr/local/lib/R/site-library/rmarkdown/rmarkdown/lua/latex-div.lua --embed-resources --standalone --wrap preserve --lua-filter /usr/local/lib/R/site-library/pagedown/resources/lua/uri-to-fn.lua --lua-filter /usr/local/lib/R/site-library/pagedown/resources/lua/loft.lua --lua-filter /usr/local/lib/R/site-library/pagedown/resources/lua/footnotes.lua --include-in-header /tmp/RtmpVzoG2G/filed2cdc1708.html '--mathjax=https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML' --metadata newpage_html_class=\"page-break-after\" --section-divs --table-of-contents --toc-depth 3 --template /usr/local/lib/R/site-library/pagedown/resources/html/paged.html --highlight-style pygments --css /usr/local/lib/R/site-library/dlookr/resources/css/custom-fonts.css --css /usr/local/lib/R/site-library/dlookr/resources/css/custom-page-blue.css --css /usr/local/lib/R/site-library/dlookr/resources/css/custom-blue.css --include-in-header /tmp/RtmpVzoG2G/rmarkdown-strd74a2b7a2.html \n"
      ]
     },
     {
@@ -1854,19 +1854,19 @@
   {
    "cell_type": "code",
    "execution_count": 15,
-   "id": "77593026",
+   "id": "7011acbd",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-18T12:59:17.019951Z",
-     "iopub.status.busy": "2025-07-18T12:59:17.018251Z",
-     "iopub.status.idle": "2025-07-18T12:59:25.380371Z",
-     "shell.execute_reply": "2025-07-18T12:59:25.378396Z"
+     "iopub.execute_input": "2025-07-21T02:25:58.043037Z",
+     "iopub.status.busy": "2025-07-21T02:25:58.041450Z",
+     "iopub.status.idle": "2025-07-21T02:26:06.388858Z",
+     "shell.execute_reply": "2025-07-21T02:26:06.386373Z"
     },
     "papermill": {
-     "duration": 8.385601,
-     "end_time": "2025-07-18T12:59:25.383739",
+     "duration": 8.372261,
+     "end_time": "2025-07-21T02:26:06.391760",
      "exception": false,
-     "start_time": "2025-07-18T12:59:16.998138",
+     "start_time": "2025-07-21T02:25:58.019499",
      "status": "completed"
     },
     "tags": []
@@ -1976,7 +1976,7 @@
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "/usr/bin/pandoc +RTS -K512m -RTS eda_temp.knit.md --to html4 --from markdown+autolink_bare_uris+tex_math_single_backslash --output /kaggle/working/informe_eda_web.html --lua-filter /usr/local/lib/R/site-library/rmarkdown/rmarkdown/lua/pagebreak.lua --lua-filter /usr/local/lib/R/site-library/rmarkdown/rmarkdown/lua/latex-div.lua --embed-resources --standalone --variable bs3=TRUE --section-divs --template /usr/local/lib/R/site-library/rmarkdown/rmd/h/default.html --no-highlight --variable highlightjs=1 --variable theme=bootstrap --css /usr/local/lib/R/site-library/dlookr/resources/dlookr-bootstrap.css --mathjax --variable 'mathjax-url=https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML' --include-in-header /tmp/Rtmp1wbc5u/rmarkdown-strd4aa73cf3.html --variable code_folding=show --variable code_menu=1 --include-in-header header_temp.html --include-after-body /usr/local/lib/R/site-library/dlookr/resources/footer.html \n"
+      "/usr/bin/pandoc +RTS -K512m -RTS eda_temp.knit.md --to html4 --from markdown+autolink_bare_uris+tex_math_single_backslash --output /kaggle/working/informe_eda_web.html --lua-filter /usr/local/lib/R/site-library/rmarkdown/rmarkdown/lua/pagebreak.lua --lua-filter /usr/local/lib/R/site-library/rmarkdown/rmarkdown/lua/latex-div.lua --embed-resources --standalone --variable bs3=TRUE --section-divs --template /usr/local/lib/R/site-library/rmarkdown/rmd/h/default.html --no-highlight --variable highlightjs=1 --variable theme=bootstrap --css /usr/local/lib/R/site-library/dlookr/resources/dlookr-bootstrap.css --mathjax --variable 'mathjax-url=https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML' --include-in-header /tmp/RtmpVzoG2G/rmarkdown-strd1909f76a.html --variable code_folding=show --variable code_menu=1 --include-in-header header_temp.html --include-after-body /usr/local/lib/R/site-library/dlookr/resources/footer.html \n"
      ]
     },
     {
@@ -2004,14 +2004,14 @@
   },
   {
    "cell_type": "markdown",
-   "id": "bfdde0ad",
+   "id": "70d05a76",
    "metadata": {
     "id": "7sdl3UWgSQuU",
     "papermill": {
-     "duration": 0.018455,
-     "end_time": "2025-07-18T12:59:25.421062",
+     "duration": 0.016819,
+     "end_time": "2025-07-21T02:26:06.425729",
      "exception": false,
-     "start_time": "2025-07-18T12:59:25.402607",
+     "start_time": "2025-07-21T02:26:06.408910",
      "status": "completed"
     },
     "tags": []
@@ -2023,19 +2023,19 @@
   {
    "cell_type": "code",
    "execution_count": 16,
-   "id": "32247e76",
+   "id": "39370f03",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-18T12:59:25.462364Z",
-     "iopub.status.busy": "2025-07-18T12:59:25.460652Z",
-     "iopub.status.idle": "2025-07-18T12:59:25.502057Z",
-     "shell.execute_reply": "2025-07-18T12:59:25.500067Z"
+     "iopub.execute_input": "2025-07-21T02:26:06.463029Z",
+     "iopub.status.busy": "2025-07-21T02:26:06.461488Z",
+     "iopub.status.idle": "2025-07-21T02:26:06.488974Z",
+     "shell.execute_reply": "2025-07-21T02:26:06.487240Z"
     },
     "papermill": {
-     "duration": 0.064957,
-     "end_time": "2025-07-18T12:59:25.505022",
+     "duration": 0.048867,
+     "end_time": "2025-07-21T02:26:06.491300",
      "exception": false,
-     "start_time": "2025-07-18T12:59:25.440065",
+     "start_time": "2025-07-21T02:26:06.442433",
      "status": "completed"
     },
     "tags": []
@@ -2122,13 +2122,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "b656e10b",
+   "id": "7b31818c",
    "metadata": {
     "papermill": {
-     "duration": 0.018588,
-     "end_time": "2025-07-18T12:59:25.542313",
+     "duration": 0.017535,
+     "end_time": "2025-07-21T02:26:06.525597",
      "exception": false,
-     "start_time": "2025-07-18T12:59:25.523725",
+     "start_time": "2025-07-21T02:26:06.508062",
      "status": "completed"
     },
     "tags": []
@@ -2142,19 +2142,19 @@
   {
    "cell_type": "code",
    "execution_count": 17,
-   "id": "ec235f1b",
+   "id": "1e6cde1f",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-18T12:59:25.583808Z",
-     "iopub.status.busy": "2025-07-18T12:59:25.582088Z",
-     "iopub.status.idle": "2025-07-18T12:59:25.636880Z",
-     "shell.execute_reply": "2025-07-18T12:59:25.634667Z"
+     "iopub.execute_input": "2025-07-21T02:26:06.563545Z",
+     "iopub.status.busy": "2025-07-21T02:26:06.561997Z",
+     "iopub.status.idle": "2025-07-21T02:26:06.615428Z",
+     "shell.execute_reply": "2025-07-21T02:26:06.612715Z"
     },
     "papermill": {
-     "duration": 0.078674,
-     "end_time": "2025-07-18T12:59:25.639750",
+     "duration": 0.075586,
+     "end_time": "2025-07-21T02:26:06.618361",
      "exception": false,
-     "start_time": "2025-07-18T12:59:25.561076",
+     "start_time": "2025-07-21T02:26:06.542775",
      "status": "completed"
     },
     "tags": []
@@ -2185,13 +2185,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "c1e335be",
+   "id": "881f6afa",
    "metadata": {
     "papermill": {
-     "duration": 0.019031,
-     "end_time": "2025-07-18T12:59:25.677903",
+     "duration": 0.017733,
+     "end_time": "2025-07-21T02:26:06.654231",
      "exception": false,
-     "start_time": "2025-07-18T12:59:25.658872",
+     "start_time": "2025-07-21T02:26:06.636498",
      "status": "completed"
     },
     "tags": []
@@ -2205,19 +2205,19 @@
   {
    "cell_type": "code",
    "execution_count": 18,
-   "id": "3a715f98",
+   "id": "f2fe6835",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-18T12:59:25.720285Z",
-     "iopub.status.busy": "2025-07-18T12:59:25.718291Z",
-     "iopub.status.idle": "2025-07-18T12:59:25.740051Z",
-     "shell.execute_reply": "2025-07-18T12:59:25.737423Z"
+     "iopub.execute_input": "2025-07-21T02:26:06.693415Z",
+     "iopub.status.busy": "2025-07-21T02:26:06.691802Z",
+     "iopub.status.idle": "2025-07-21T02:26:06.710241Z",
+     "shell.execute_reply": "2025-07-21T02:26:06.708114Z"
     },
     "papermill": {
-     "duration": 0.045556,
-     "end_time": "2025-07-18T12:59:25.742917",
+     "duration": 0.040616,
+     "end_time": "2025-07-21T02:26:06.712661",
      "exception": false,
-     "start_time": "2025-07-18T12:59:25.697361",
+     "start_time": "2025-07-21T02:26:06.672045",
      "status": "completed"
     },
     "tags": []
@@ -2242,19 +2242,19 @@
   {
    "cell_type": "code",
    "execution_count": 19,
-   "id": "8c7ce80b",
+   "id": "56bf12ef",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-18T12:59:25.784727Z",
-     "iopub.status.busy": "2025-07-18T12:59:25.782945Z",
-     "iopub.status.idle": "2025-07-18T12:59:25.815272Z",
-     "shell.execute_reply": "2025-07-18T12:59:25.813395Z"
+     "iopub.execute_input": "2025-07-21T02:26:06.752583Z",
+     "iopub.status.busy": "2025-07-21T02:26:06.750991Z",
+     "iopub.status.idle": "2025-07-21T02:26:06.781915Z",
+     "shell.execute_reply": "2025-07-21T02:26:06.780115Z"
     },
     "papermill": {
-     "duration": 0.055917,
-     "end_time": "2025-07-18T12:59:25.818042",
+     "duration": 0.054133,
+     "end_time": "2025-07-21T02:26:06.784495",
      "exception": false,
-     "start_time": "2025-07-18T12:59:25.762125",
+     "start_time": "2025-07-21T02:26:06.730362",
      "status": "completed"
     },
     "tags": []
@@ -2355,19 +2355,19 @@
   {
    "cell_type": "code",
    "execution_count": 20,
-   "id": "107098e5",
+   "id": "a78b529b",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-18T12:59:25.861284Z",
-     "iopub.status.busy": "2025-07-18T12:59:25.859549Z",
-     "iopub.status.idle": "2025-07-18T12:59:25.892203Z",
-     "shell.execute_reply": "2025-07-18T12:59:25.890290Z"
+     "iopub.execute_input": "2025-07-21T02:26:06.826684Z",
+     "iopub.status.busy": "2025-07-21T02:26:06.825078Z",
+     "iopub.status.idle": "2025-07-21T02:26:06.854520Z",
+     "shell.execute_reply": "2025-07-21T02:26:06.852660Z"
     },
     "papermill": {
-     "duration": 0.057009,
-     "end_time": "2025-07-18T12:59:25.894907",
+     "duration": 0.052998,
+     "end_time": "2025-07-21T02:26:06.857210",
      "exception": false,
-     "start_time": "2025-07-18T12:59:25.837898",
+     "start_time": "2025-07-21T02:26:06.804212",
      "status": "completed"
     },
     "tags": []
@@ -2467,19 +2467,19 @@
   {
    "cell_type": "code",
    "execution_count": 21,
-   "id": "0f33111d",
+   "id": "2d3b2621",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-18T12:59:25.939586Z",
-     "iopub.status.busy": "2025-07-18T12:59:25.936791Z",
-     "iopub.status.idle": "2025-07-18T12:59:25.955093Z",
-     "shell.execute_reply": "2025-07-18T12:59:25.952390Z"
+     "iopub.execute_input": "2025-07-21T02:26:06.898714Z",
+     "iopub.status.busy": "2025-07-21T02:26:06.897145Z",
+     "iopub.status.idle": "2025-07-21T02:26:06.911724Z",
+     "shell.execute_reply": "2025-07-21T02:26:06.909907Z"
     },
     "papermill": {
-     "duration": 0.042821,
-     "end_time": "2025-07-18T12:59:25.958194",
+     "duration": 0.050275,
+     "end_time": "2025-07-21T02:26:06.926330",
      "exception": false,
-     "start_time": "2025-07-18T12:59:25.915373",
+     "start_time": "2025-07-21T02:26:06.876055",
      "status": "completed"
     },
     "tags": []
@@ -2493,19 +2493,19 @@
   {
    "cell_type": "code",
    "execution_count": 22,
-   "id": "e09b06c5",
+   "id": "6dae9586",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-18T12:59:26.007305Z",
-     "iopub.status.busy": "2025-07-18T12:59:26.005597Z",
-     "iopub.status.idle": "2025-07-18T12:59:26.020486Z",
-     "shell.execute_reply": "2025-07-18T12:59:26.018595Z"
+     "iopub.execute_input": "2025-07-21T02:26:06.967633Z",
+     "iopub.status.busy": "2025-07-21T02:26:06.966027Z",
+     "iopub.status.idle": "2025-07-21T02:26:06.980513Z",
+     "shell.execute_reply": "2025-07-21T02:26:06.978760Z"
     },
     "papermill": {
-     "duration": 0.042848,
-     "end_time": "2025-07-18T12:59:26.024108",
+     "duration": 0.03813,
+     "end_time": "2025-07-21T02:26:06.983013",
      "exception": false,
-     "start_time": "2025-07-18T12:59:25.981260",
+     "start_time": "2025-07-21T02:26:06.944883",
      "status": "completed"
     },
     "tags": []
@@ -2519,19 +2519,19 @@
   {
    "cell_type": "code",
    "execution_count": 23,
-   "id": "a08aff77",
+   "id": "8fbc0bc5",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-18T12:59:26.067291Z",
-     "iopub.status.busy": "2025-07-18T12:59:26.065112Z",
-     "iopub.status.idle": "2025-07-18T12:59:26.119055Z",
-     "shell.execute_reply": "2025-07-18T12:59:26.116225Z"
+     "iopub.execute_input": "2025-07-21T02:26:07.026360Z",
+     "iopub.status.busy": "2025-07-21T02:26:07.024699Z",
+     "iopub.status.idle": "2025-07-21T02:26:07.078188Z",
+     "shell.execute_reply": "2025-07-21T02:26:07.076016Z"
     },
     "papermill": {
-     "duration": 0.079543,
-     "end_time": "2025-07-18T12:59:26.122855",
+     "duration": 0.077181,
+     "end_time": "2025-07-21T02:26:07.080801",
      "exception": false,
-     "start_time": "2025-07-18T12:59:26.043312",
+     "start_time": "2025-07-21T02:26:07.003620",
      "status": "completed"
     },
     "tags": []
@@ -2562,13 +2562,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "fe79df87",
+   "id": "609753af",
    "metadata": {
     "papermill": {
-     "duration": 0.030186,
-     "end_time": "2025-07-18T12:59:26.176542",
+     "duration": 0.019431,
+     "end_time": "2025-07-21T02:26:07.119313",
      "exception": false,
-     "start_time": "2025-07-18T12:59:26.146356",
+     "start_time": "2025-07-21T02:26:07.099882",
      "status": "completed"
     },
     "tags": []
@@ -2580,19 +2580,19 @@
   {
    "cell_type": "code",
    "execution_count": 24,
-   "id": "f15d45db",
+   "id": "d0f3a67b",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-18T12:59:26.228525Z",
-     "iopub.status.busy": "2025-07-18T12:59:26.226967Z",
-     "iopub.status.idle": "2025-07-18T12:59:26.414048Z",
-     "shell.execute_reply": "2025-07-18T12:59:26.411908Z"
+     "iopub.execute_input": "2025-07-21T02:26:07.160682Z",
+     "iopub.status.busy": "2025-07-21T02:26:07.159078Z",
+     "iopub.status.idle": "2025-07-21T02:26:07.307255Z",
+     "shell.execute_reply": "2025-07-21T02:26:07.305357Z"
     },
     "papermill": {
-     "duration": 0.214709,
-     "end_time": "2025-07-18T12:59:26.416938",
+     "duration": 0.171517,
+     "end_time": "2025-07-21T02:26:07.309762",
      "exception": false,
-     "start_time": "2025-07-18T12:59:26.202229",
+     "start_time": "2025-07-21T02:26:07.138245",
      "status": "completed"
     },
     "tags": []
@@ -2606,19 +2606,19 @@
   {
    "cell_type": "code",
    "execution_count": 25,
-   "id": "86874272",
+   "id": "f9413ea6",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-18T12:59:26.462291Z",
-     "iopub.status.busy": "2025-07-18T12:59:26.460707Z",
-     "iopub.status.idle": "2025-07-18T12:59:26.500319Z",
-     "shell.execute_reply": "2025-07-18T12:59:26.498466Z"
+     "iopub.execute_input": "2025-07-21T02:26:07.351131Z",
+     "iopub.status.busy": "2025-07-21T02:26:07.349488Z",
+     "iopub.status.idle": "2025-07-21T02:26:07.387053Z",
+     "shell.execute_reply": "2025-07-21T02:26:07.385176Z"
     },
     "papermill": {
-     "duration": 0.065909,
-     "end_time": "2025-07-18T12:59:26.503122",
+     "duration": 0.061365,
+     "end_time": "2025-07-21T02:26:07.389815",
      "exception": false,
-     "start_time": "2025-07-18T12:59:26.437213",
+     "start_time": "2025-07-21T02:26:07.328450",
      "status": "completed"
     },
     "tags": []
@@ -2632,19 +2632,19 @@
   {
    "cell_type": "code",
    "execution_count": 26,
-   "id": "57312d18",
+   "id": "a608a03e",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-18T12:59:26.548521Z",
-     "iopub.status.busy": "2025-07-18T12:59:26.546926Z",
-     "iopub.status.idle": "2025-07-18T12:59:26.590531Z",
-     "shell.execute_reply": "2025-07-18T12:59:26.588662Z"
+     "iopub.execute_input": "2025-07-21T02:26:07.432308Z",
+     "iopub.status.busy": "2025-07-21T02:26:07.430747Z",
+     "iopub.status.idle": "2025-07-21T02:26:07.459054Z",
+     "shell.execute_reply": "2025-07-21T02:26:07.457200Z"
     },
     "papermill": {
-     "duration": 0.069597,
-     "end_time": "2025-07-18T12:59:26.593187",
+     "duration": 0.052442,
+     "end_time": "2025-07-21T02:26:07.461453",
      "exception": false,
-     "start_time": "2025-07-18T12:59:26.523590",
+     "start_time": "2025-07-21T02:26:07.409011",
      "status": "completed"
     },
     "tags": []
@@ -2732,20 +2732,20 @@
   {
    "cell_type": "code",
    "execution_count": 27,
-   "id": "f96fb016",
+   "id": "b85f1011",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-18T12:59:26.639035Z",
-     "iopub.status.busy": "2025-07-18T12:59:26.637223Z",
-     "iopub.status.idle": "2025-07-18T12:59:26.651722Z",
-     "shell.execute_reply": "2025-07-18T12:59:26.649777Z"
+     "iopub.execute_input": "2025-07-21T02:26:07.503569Z",
+     "iopub.status.busy": "2025-07-21T02:26:07.502034Z",
+     "iopub.status.idle": "2025-07-21T02:26:07.514227Z",
+     "shell.execute_reply": "2025-07-21T02:26:07.512530Z"
     },
     "id": "7Ppt4z0dS4jn",
     "papermill": {
-     "duration": 0.040806,
-     "end_time": "2025-07-18T12:59:26.654721",
+     "duration": 0.036086,
+     "end_time": "2025-07-21T02:26:07.516747",
      "exception": false,
-     "start_time": "2025-07-18T12:59:26.613915",
+     "start_time": "2025-07-21T02:26:07.480661",
      "status": "completed"
     },
     "tags": []
@@ -2759,14 +2759,14 @@
   },
   {
    "cell_type": "markdown",
-   "id": "6c6ab53f",
+   "id": "9933f88a",
    "metadata": {
     "id": "bEZKZzFSReDw",
     "papermill": {
-     "duration": 0.020666,
-     "end_time": "2025-07-18T12:59:26.696352",
+     "duration": 0.019686,
+     "end_time": "2025-07-21T02:26:07.555597",
      "exception": false,
-     "start_time": "2025-07-18T12:59:26.675686",
+     "start_time": "2025-07-21T02:26:07.535911",
      "status": "completed"
     },
     "tags": []
@@ -2785,13 +2785,13 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "316f2bd3",
+   "id": "ebbaab7b",
    "metadata": {
     "papermill": {
-     "duration": 0.019812,
-     "end_time": "2025-07-18T12:59:26.738366",
+     "duration": 0.019145,
+     "end_time": "2025-07-21T02:26:07.594391",
      "exception": false,
-     "start_time": "2025-07-18T12:59:26.718554",
+     "start_time": "2025-07-21T02:26:07.575246",
      "status": "completed"
     },
     "tags": []
@@ -2802,20 +2802,20 @@
   {
    "cell_type": "code",
    "execution_count": 28,
-   "id": "6debd440",
+   "id": "e14840e7",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-18T12:59:26.782015Z",
-     "iopub.status.busy": "2025-07-18T12:59:26.780389Z",
-     "iopub.status.idle": "2025-07-18T12:59:26.808104Z",
-     "shell.execute_reply": "2025-07-18T12:59:26.806180Z"
+     "iopub.execute_input": "2025-07-21T02:26:07.636591Z",
+     "iopub.status.busy": "2025-07-21T02:26:07.634999Z",
+     "iopub.status.idle": "2025-07-21T02:26:07.660934Z",
+     "shell.execute_reply": "2025-07-21T02:26:07.659118Z"
     },
     "id": "9ZM5jFFfQtTH",
     "papermill": {
-     "duration": 0.052914,
-     "end_time": "2025-07-18T12:59:26.811078",
+     "duration": 0.05008,
+     "end_time": "2025-07-21T02:26:07.663670",
      "exception": false,
-     "start_time": "2025-07-18T12:59:26.758164",
+     "start_time": "2025-07-21T02:26:07.613590",
      "status": "completed"
     },
     "tags": []
@@ -2831,19 +2831,19 @@
   {
    "cell_type": "code",
    "execution_count": 29,
-   "id": "1a34b295",
+   "id": "ed871c37",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-18T12:59:26.855009Z",
-     "iopub.status.busy": "2025-07-18T12:59:26.853359Z",
-     "iopub.status.idle": "2025-07-18T12:59:28.203904Z",
-     "shell.execute_reply": "2025-07-18T12:59:28.202012Z"
+     "iopub.execute_input": "2025-07-21T02:26:07.707385Z",
+     "iopub.status.busy": "2025-07-21T02:26:07.705693Z",
+     "iopub.status.idle": "2025-07-21T02:26:09.242829Z",
+     "shell.execute_reply": "2025-07-21T02:26:09.241014Z"
     },
     "papermill": {
-     "duration": 1.375751,
-     "end_time": "2025-07-18T12:59:28.206792",
+     "duration": 1.562328,
+     "end_time": "2025-07-21T02:26:09.245428",
      "exception": false,
-     "start_time": "2025-07-18T12:59:26.831041",
+     "start_time": "2025-07-21T02:26:07.683100",
      "status": "completed"
     },
     "tags": []
@@ -2872,14 +2872,14 @@
   },
   {
    "cell_type": "markdown",
-   "id": "d0b12146",
+   "id": "8748a84f",
    "metadata": {
     "id": "vJvnrHFCXdbj",
     "papermill": {
-     "duration": 0.020511,
-     "end_time": "2025-07-18T12:59:28.248689",
+     "duration": 0.020685,
+     "end_time": "2025-07-21T02:26:09.285986",
      "exception": false,
-     "start_time": "2025-07-18T12:59:28.228178",
+     "start_time": "2025-07-21T02:26:09.265301",
      "status": "completed"
     },
     "tags": []
@@ -2916,20 +2916,20 @@
   {
    "cell_type": "code",
    "execution_count": 30,
-   "id": "3e4d3f8d",
+   "id": "cf93776e",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-18T12:59:28.292170Z",
-     "iopub.status.busy": "2025-07-18T12:59:28.290479Z",
-     "iopub.status.idle": "2025-07-18T12:59:28.647160Z",
-     "shell.execute_reply": "2025-07-18T12:59:28.645212Z"
+     "iopub.execute_input": "2025-07-21T02:26:09.335653Z",
+     "iopub.status.busy": "2025-07-21T02:26:09.333970Z",
+     "iopub.status.idle": "2025-07-21T02:26:09.685856Z",
+     "shell.execute_reply": "2025-07-21T02:26:09.683542Z"
     },
     "id": "CoKxj3U5R9u_",
     "papermill": {
-     "duration": 0.381617,
-     "end_time": "2025-07-18T12:59:28.650100",
+     "duration": 0.378219,
+     "end_time": "2025-07-21T02:26:09.688452",
      "exception": false,
-     "start_time": "2025-07-18T12:59:28.268483",
+     "start_time": "2025-07-21T02:26:09.310233",
      "status": "completed"
     },
     "tags": []
@@ -3064,14 +3064,14 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "3ab512c1",
+   "id": "70b633fb",
    "metadata": {
     "id": "jg5UOwzTXrFh",
     "papermill": {
-     "duration": 0.020736,
-     "end_time": "2025-07-18T12:59:28.692428",
+     "duration": 0.021202,
+     "end_time": "2025-07-21T02:26:09.730031",
      "exception": false,
-     "start_time": "2025-07-18T12:59:28.671692",
+     "start_time": "2025-07-21T02:26:09.708829",
      "status": "completed"
     },
     "tags": []
@@ -3082,21 +3082,21 @@
   {
    "cell_type": "code",
    "execution_count": 31,
-   "id": "cc6e70e3",
+   "id": "a63dbd0f",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-18T12:59:28.737709Z",
-     "iopub.status.busy": "2025-07-18T12:59:28.736060Z",
-     "iopub.status.idle": "2025-07-18T12:59:28.750013Z",
-     "shell.execute_reply": "2025-07-18T12:59:28.748174Z"
+     "iopub.execute_input": "2025-07-21T02:26:09.777299Z",
+     "iopub.status.busy": "2025-07-21T02:26:09.775521Z",
+     "iopub.status.idle": "2025-07-21T02:26:09.790328Z",
+     "shell.execute_reply": "2025-07-21T02:26:09.788331Z"
     },
     "id": "sDspieVojCJr",
     "outputId": "7a0eba2c-120c-494b-ed19-7582b420efed",
     "papermill": {
-     "duration": 0.03935,
-     "end_time": "2025-07-18T12:59:28.752604",
+     "duration": 0.040785,
+     "end_time": "2025-07-21T02:26:09.792771",
      "exception": false,
-     "start_time": "2025-07-18T12:59:28.713254",
+     "start_time": "2025-07-21T02:26:09.751986",
      "status": "completed"
     },
     "tags": []
@@ -3109,20 +3109,20 @@
   {
    "cell_type": "code",
    "execution_count": 32,
-   "id": "345098be",
+   "id": "1df54946",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-18T12:59:28.798128Z",
-     "iopub.status.busy": "2025-07-18T12:59:28.795931Z",
-     "iopub.status.idle": "2025-07-18T12:59:28.811048Z",
-     "shell.execute_reply": "2025-07-18T12:59:28.808738Z"
+     "iopub.execute_input": "2025-07-21T02:26:09.838334Z",
+     "iopub.status.busy": "2025-07-21T02:26:09.836693Z",
+     "iopub.status.idle": "2025-07-21T02:26:09.850727Z",
+     "shell.execute_reply": "2025-07-21T02:26:09.848871Z"
     },
     "id": "qdpJA9gIjEAR",
     "papermill": {
-     "duration": 0.041303,
-     "end_time": "2025-07-18T12:59:28.814106",
+     "duration": 0.040579,
+     "end_time": "2025-07-21T02:26:09.853503",
      "exception": false,
-     "start_time": "2025-07-18T12:59:28.772803",
+     "start_time": "2025-07-21T02:26:09.812924",
      "status": "completed"
     },
     "tags": []
@@ -3135,20 +3135,20 @@
   {
    "cell_type": "code",
    "execution_count": 33,
-   "id": "e8bc9537",
+   "id": "05acc02f",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-18T12:59:28.859967Z",
-     "iopub.status.busy": "2025-07-18T12:59:28.858285Z",
-     "iopub.status.idle": "2025-07-18T12:59:28.873174Z",
-     "shell.execute_reply": "2025-07-18T12:59:28.871336Z"
+     "iopub.execute_input": "2025-07-21T02:26:09.900895Z",
+     "iopub.status.busy": "2025-07-21T02:26:09.898971Z",
+     "iopub.status.idle": "2025-07-21T02:26:09.915453Z",
+     "shell.execute_reply": "2025-07-21T02:26:09.913526Z"
     },
     "id": "Ca2u4TYijWhw",
     "papermill": {
-     "duration": 0.040631,
-     "end_time": "2025-07-18T12:59:28.875905",
+     "duration": 0.043355,
+     "end_time": "2025-07-21T02:26:09.918294",
      "exception": false,
-     "start_time": "2025-07-18T12:59:28.835274",
+     "start_time": "2025-07-21T02:26:09.874939",
      "status": "completed"
     },
     "tags": []
@@ -3162,21 +3162,21 @@
   {
    "cell_type": "code",
    "execution_count": 34,
-   "id": "77b2fd1e",
+   "id": "21174134",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-18T12:59:28.924878Z",
-     "iopub.status.busy": "2025-07-18T12:59:28.923203Z",
-     "iopub.status.idle": "2025-07-18T12:59:28.940469Z",
-     "shell.execute_reply": "2025-07-18T12:59:28.937924Z"
+     "iopub.execute_input": "2025-07-21T02:26:09.963516Z",
+     "iopub.status.busy": "2025-07-21T02:26:09.961832Z",
+     "iopub.status.idle": "2025-07-21T02:26:09.978360Z",
+     "shell.execute_reply": "2025-07-21T02:26:09.976314Z"
     },
     "id": "6T0xsYp4jaeK",
     "outputId": "e6d629e0-046e-4388-e718-1d51b8d76b74",
     "papermill": {
-     "duration": 0.046963,
-     "end_time": "2025-07-18T12:59:28.943382",
+     "duration": 0.042085,
+     "end_time": "2025-07-21T02:26:09.981057",
      "exception": false,
-     "start_time": "2025-07-18T12:59:28.896419",
+     "start_time": "2025-07-21T02:26:09.938972",
      "status": "completed"
     },
     "tags": []
@@ -3197,20 +3197,20 @@
   {
    "cell_type": "code",
    "execution_count": 35,
-   "id": "acb5f021",
+   "id": "f2393aa3",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-18T12:59:28.992275Z",
-     "iopub.status.busy": "2025-07-18T12:59:28.990677Z",
-     "iopub.status.idle": "2025-07-18T12:59:29.005310Z",
-     "shell.execute_reply": "2025-07-18T12:59:29.003472Z"
+     "iopub.execute_input": "2025-07-21T02:26:10.031574Z",
+     "iopub.status.busy": "2025-07-21T02:26:10.029903Z",
+     "iopub.status.idle": "2025-07-21T02:26:10.045761Z",
+     "shell.execute_reply": "2025-07-21T02:26:10.043908Z"
     },
     "id": "AvjSMyUOjc-S",
     "papermill": {
-     "duration": 0.041007,
-     "end_time": "2025-07-18T12:59:29.007986",
+     "duration": 0.046737,
+     "end_time": "2025-07-21T02:26:10.048802",
      "exception": false,
-     "start_time": "2025-07-18T12:59:28.966979",
+     "start_time": "2025-07-21T02:26:10.002065",
      "status": "completed"
     },
     "tags": []
@@ -3224,21 +3224,21 @@
   {
    "cell_type": "code",
    "execution_count": 36,
-   "id": "f324c974",
+   "id": "33d5211a",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-18T12:59:29.054372Z",
-     "iopub.status.busy": "2025-07-18T12:59:29.052649Z",
-     "iopub.status.idle": "2025-07-18T12:59:29.070305Z",
-     "shell.execute_reply": "2025-07-18T12:59:29.068098Z"
+     "iopub.execute_input": "2025-07-21T02:26:10.097949Z",
+     "iopub.status.busy": "2025-07-21T02:26:10.095903Z",
+     "iopub.status.idle": "2025-07-21T02:26:10.114246Z",
+     "shell.execute_reply": "2025-07-21T02:26:10.111579Z"
     },
     "id": "ttJHdeTWjoDe",
     "outputId": "ecbf1500-92d2-44b6-de04-07d432144ec5",
     "papermill": {
-     "duration": 0.044001,
-     "end_time": "2025-07-18T12:59:29.073136",
+     "duration": 0.049148,
+     "end_time": "2025-07-21T02:26:10.118570",
      "exception": false,
-     "start_time": "2025-07-18T12:59:29.029135",
+     "start_time": "2025-07-21T02:26:10.069422",
      "status": "completed"
     },
     "tags": []
@@ -3257,50 +3257,22 @@
    ]
   },
   {
-   "cell_type": "markdown",
-   "id": "adcd83b0",
-   "metadata": {
-    "id": "9ki798ADStSY",
-    "papermill": {
-     "duration": 0.021023,
-     "end_time": "2025-07-18T12:59:29.115409",
-     "exception": false,
-     "start_time": "2025-07-18T12:59:29.094386",
-     "status": "completed"
-    },
-    "tags": []
-   },
-   "source": [
-    "## Actividad 4: Exploración de Tendencias en los Datos\n",
-    "\n",
-    "Utiliza gráficos para descubrir tendencias significativas dentro del conjunto de datos de robos de bicicletas explorando las siguientes preguntas:\n",
-    "\n",
-    "1. ¿Qué trimestre, es decir, \"Q1\", \"Q2\", \"Q3\" y \"Q4\", tiene el mayor y menor número de bicicletas robadas? Almacena tus hallazgos como variables de tipo cadena, `high` y `low`.\n",
-    "\n",
-    "2. ¿Cuáles son las ubicaciones más frecuentes (por ejemplo, residenciales, áreas comerciales) de robos de bicicletas en Toronto? ¿Y qué proporción representan (redondeada a un decimal)? Almacena tus hallazgos como una variable de tipo cadena, `location`, y una variable numérica, `percentage`.\n",
-    "\n",
-    "3. ¿En qué región de Toronto el valor mediano o la mediana de las bicicletas robadas es el más alto? Almacena tus hallazgos como una variable de tipo cadena, `region` (la región puede ser un nombre real o un código de región, es decir, \"1\", \"2\", \"3\", ...).\n",
-    "\n",
-    "4. ¿Qué curso de acción recomendarías a la estación de policía basándote en tus hallazgos? Almacena tu recomendación como una variable de tipo cadena, `action`.\n"
-   ]
-  },
-  {
    "cell_type": "code",
    "execution_count": 37,
-   "id": "d9f6660e",
+   "id": "5e75cfe8",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-18T12:59:29.162537Z",
-     "iopub.status.busy": "2025-07-18T12:59:29.160850Z",
-     "iopub.status.idle": "2025-07-18T12:59:29.222849Z",
-     "shell.execute_reply": "2025-07-18T12:59:29.220862Z"
+     "iopub.execute_input": "2025-07-21T02:26:10.168745Z",
+     "iopub.status.busy": "2025-07-21T02:26:10.167070Z",
+     "iopub.status.idle": "2025-07-21T02:26:10.228220Z",
+     "shell.execute_reply": "2025-07-21T02:26:10.226336Z"
     },
     "id": "EgDqhpvpjo4J",
     "papermill": {
-     "duration": 0.089627,
-     "end_time": "2025-07-18T12:59:29.225734",
+     "duration": 0.088181,
+     "end_time": "2025-07-21T02:26:10.230715",
      "exception": false,
-     "start_time": "2025-07-18T12:59:29.136107",
+     "start_time": "2025-07-21T02:26:10.142534",
      "status": "completed"
     },
     "tags": []
@@ -3384,19 +3356,19 @@
   {
    "cell_type": "code",
    "execution_count": 38,
-   "id": "7f4dac0b",
+   "id": "bf2a46ae",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-18T12:59:29.272047Z",
-     "iopub.status.busy": "2025-07-18T12:59:29.270335Z",
-     "iopub.status.idle": "2025-07-18T12:59:29.315822Z",
-     "shell.execute_reply": "2025-07-18T12:59:29.313978Z"
+     "iopub.execute_input": "2025-07-21T02:26:10.278331Z",
+     "iopub.status.busy": "2025-07-21T02:26:10.276697Z",
+     "iopub.status.idle": "2025-07-21T02:26:10.325473Z",
+     "shell.execute_reply": "2025-07-21T02:26:10.323667Z"
     },
     "papermill": {
-     "duration": 0.071738,
-     "end_time": "2025-07-18T12:59:29.318810",
+     "duration": 0.075097,
+     "end_time": "2025-07-21T02:26:10.328306",
      "exception": false,
-     "start_time": "2025-07-18T12:59:29.247072",
+     "start_time": "2025-07-21T02:26:10.253209",
      "status": "completed"
     },
     "tags": []
@@ -3477,21 +3449,49 @@
    ]
   },
   {
+   "cell_type": "markdown",
+   "id": "02b00bd6",
+   "metadata": {
+    "id": "9ki798ADStSY",
+    "papermill": {
+     "duration": 0.025805,
+     "end_time": "2025-07-21T02:26:10.378234",
+     "exception": false,
+     "start_time": "2025-07-21T02:26:10.352429",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "source": [
+    "## Actividad 4: Exploración de Tendencias en los Datos\n",
+    "\n",
+    "Utiliza gráficos para descubrir tendencias significativas dentro del conjunto de datos de robos de bicicletas explorando las siguientes preguntas:\n",
+    "\n",
+    "1. ¿Qué trimestre, es decir, \"Q1\", \"Q2\", \"Q3\" y \"Q4\", tiene el mayor y menor número de bicicletas robadas? Almacena tus hallazgos como variables de tipo cadena, `high` y `low`.\n",
+    "\n",
+    "2. ¿Cuáles son las ubicaciones más frecuentes (por ejemplo, residenciales, áreas comerciales) de robos de bicicletas en Toronto? ¿Y qué proporción representan (redondeada a un decimal)? Almacena tus hallazgos como una variable de tipo cadena, `location`, y una variable numérica, `percentage`.\n",
+    "\n",
+    "3. ¿En qué región de Toronto el valor mediano o la mediana de las bicicletas robadas es el más alto? Almacena tus hallazgos como una variable de tipo cadena, `region` (la región puede ser un nombre real o un código de región, es decir, \"1\", \"2\", \"3\", ...).\n",
+    "\n",
+    "4. ¿Qué curso de acción recomendarías a la estación de policía basándote en tus hallazgos? Almacena tu recomendación como una variable de tipo cadena, `action`.\n"
+   ]
+  },
+  {
    "cell_type": "code",
    "execution_count": 39,
-   "id": "c9bff715",
+   "id": "93acf470",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-18T12:59:29.369500Z",
-     "iopub.status.busy": "2025-07-18T12:59:29.367684Z",
-     "iopub.status.idle": "2025-07-18T12:59:29.408648Z",
-     "shell.execute_reply": "2025-07-18T12:59:29.405875Z"
+     "iopub.execute_input": "2025-07-21T02:26:10.431178Z",
+     "iopub.status.busy": "2025-07-21T02:26:10.429498Z",
+     "iopub.status.idle": "2025-07-21T02:26:10.464655Z",
+     "shell.execute_reply": "2025-07-21T02:26:10.462748Z"
     },
     "papermill": {
-     "duration": 0.071165,
-     "end_time": "2025-07-18T12:59:29.412333",
+     "duration": 0.062739,
+     "end_time": "2025-07-21T02:26:10.467419",
      "exception": false,
-     "start_time": "2025-07-18T12:59:29.341168",
+     "start_time": "2025-07-21T02:26:10.404680",
      "status": "completed"
     },
     "tags": []
@@ -3560,19 +3560,19 @@
   {
    "cell_type": "code",
    "execution_count": 40,
-   "id": "d49fac81",
+   "id": "152ab8b5",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-18T12:59:29.460780Z",
-     "iopub.status.busy": "2025-07-18T12:59:29.459145Z",
-     "iopub.status.idle": "2025-07-18T12:59:29.478632Z",
-     "shell.execute_reply": "2025-07-18T12:59:29.476712Z"
+     "iopub.execute_input": "2025-07-21T02:26:10.513864Z",
+     "iopub.status.busy": "2025-07-21T02:26:10.512230Z",
+     "iopub.status.idle": "2025-07-21T02:26:10.529534Z",
+     "shell.execute_reply": "2025-07-21T02:26:10.527754Z"
     },
     "papermill": {
-     "duration": 0.047698,
-     "end_time": "2025-07-18T12:59:29.482308",
+     "duration": 0.043294,
+     "end_time": "2025-07-21T02:26:10.532102",
      "exception": false,
-     "start_time": "2025-07-18T12:59:29.434610",
+     "start_time": "2025-07-21T02:26:10.488808",
      "status": "completed"
     },
     "tags": []
@@ -3587,19 +3587,19 @@
   {
    "cell_type": "code",
    "execution_count": 41,
-   "id": "6eb0857f",
+   "id": "c24e6f41",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-18T12:59:29.530057Z",
-     "iopub.status.busy": "2025-07-18T12:59:29.528366Z",
-     "iopub.status.idle": "2025-07-18T12:59:29.548233Z",
-     "shell.execute_reply": "2025-07-18T12:59:29.546319Z"
+     "iopub.execute_input": "2025-07-21T02:26:10.582413Z",
+     "iopub.status.busy": "2025-07-21T02:26:10.580903Z",
+     "iopub.status.idle": "2025-07-21T02:26:10.598381Z",
+     "shell.execute_reply": "2025-07-21T02:26:10.596593Z"
     },
     "papermill": {
-     "duration": 0.047362,
-     "end_time": "2025-07-18T12:59:29.551655",
+     "duration": 0.047027,
+     "end_time": "2025-07-21T02:26:10.600892",
      "exception": false,
-     "start_time": "2025-07-18T12:59:29.504293",
+     "start_time": "2025-07-21T02:26:10.553865",
      "status": "completed"
     },
     "tags": []
@@ -3614,19 +3614,19 @@
   {
    "cell_type": "code",
    "execution_count": 42,
-   "id": "80e6b388",
+   "id": "0b367f02",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-18T12:59:29.602482Z",
-     "iopub.status.busy": "2025-07-18T12:59:29.600859Z",
-     "iopub.status.idle": "2025-07-18T12:59:29.621819Z",
-     "shell.execute_reply": "2025-07-18T12:59:29.620022Z"
+     "iopub.execute_input": "2025-07-21T02:26:10.648167Z",
+     "iopub.status.busy": "2025-07-21T02:26:10.646596Z",
+     "iopub.status.idle": "2025-07-21T02:26:10.666160Z",
+     "shell.execute_reply": "2025-07-21T02:26:10.664302Z"
     },
     "papermill": {
-     "duration": 0.048754,
-     "end_time": "2025-07-18T12:59:29.624460",
+     "duration": 0.046474,
+     "end_time": "2025-07-21T02:26:10.668825",
      "exception": false,
-     "start_time": "2025-07-18T12:59:29.575706",
+     "start_time": "2025-07-21T02:26:10.622351",
      "status": "completed"
     },
     "tags": []
@@ -3661,19 +3661,19 @@
   {
    "cell_type": "code",
    "execution_count": 43,
-   "id": "9d489ea7",
+   "id": "faf1ff2a",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-07-18T12:59:29.672949Z",
-     "iopub.status.busy": "2025-07-18T12:59:29.671326Z",
-     "iopub.status.idle": "2025-07-18T12:59:29.927467Z",
-     "shell.execute_reply": "2025-07-18T12:59:29.925607Z"
+     "iopub.execute_input": "2025-07-21T02:26:10.716727Z",
+     "iopub.status.busy": "2025-07-21T02:26:10.715016Z",
+     "iopub.status.idle": "2025-07-21T02:26:10.962913Z",
+     "shell.execute_reply": "2025-07-21T02:26:10.960927Z"
     },
     "papermill": {
-     "duration": 0.283673,
-     "end_time": "2025-07-18T12:59:29.929978",
+     "duration": 0.274466,
+     "end_time": "2025-07-21T02:26:10.965338",
      "exception": false,
-     "start_time": "2025-07-18T12:59:29.646305",
+     "start_time": "2025-07-21T02:26:10.690872",
      "status": "completed"
     },
     "tags": []
@@ -3705,52 +3705,501 @@
   },
   {
    "cell_type": "markdown",
-   "id": "8edf7084",
+   "id": "b106ef3b",
    "metadata": {
     "papermill": {
-     "duration": 0.023107,
-     "end_time": "2025-07-18T12:59:29.976712",
+     "duration": 0.023254,
+     "end_time": "2025-07-21T02:26:11.010726",
      "exception": false,
-     "start_time": "2025-07-18T12:59:29.953605",
+     "start_time": "2025-07-21T02:26:10.987472",
      "status": "completed"
     },
     "tags": []
    },
    "source": [
-    "2. ¿Cuáles son las ubicaciones más frecuentes (por ejemplo, residenciales, áreas comerciales) de robos de bicicletas en Toronto? ¿Y qué proporción representan (redondeada a un decimal)? Almacena tus hallazgos como una variable de tipo cadena, location, y una variable numérica, percentage."
+    "**2. ¿Cuáles son las ubicaciones más frecuentes (por ejemplo, residenciales, áreas comerciales) de robos de bicicletas en Toronto? ¿Y qué proporción representan (redondeada a un decimal)? Almacena tus hallazgos como una variable de tipo cadena, location, y una variable numérica, percentage.**"
    ]
   },
   {
    "cell_type": "code",
-   "execution_count": null,
-   "id": "51c6d8f5",
+   "execution_count": 44,
+   "id": "1641d4f3",
    "metadata": {
+    "execution": {
+     "iopub.execute_input": "2025-07-21T02:26:11.061308Z",
+     "iopub.status.busy": "2025-07-21T02:26:11.059723Z",
+     "iopub.status.idle": "2025-07-21T02:26:11.091786Z",
+     "shell.execute_reply": "2025-07-21T02:26:11.090049Z"
+    },
     "papermill": {
-     "duration": 0.023272,
-     "end_time": "2025-07-18T12:59:30.023090",
+     "duration": 0.058892,
+     "end_time": "2025-07-21T02:26:11.094138",
      "exception": false,
-     "start_time": "2025-07-18T12:59:29.999818",
+     "start_time": "2025-07-21T02:26:11.035246",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "<table class=\"dataframe\">\n",
+       "<caption>A tibble: 7 × 2</caption>\n",
+       "<thead>\n",
+       "\t<tr><th scope=col>location</th><th scope=col>total_robberies</th></tr>\n",
+       "\t<tr><th scope=col>&lt;chr&gt;</th><th scope=col>&lt;int&gt;</th></tr>\n",
+       "</thead>\n",
+       "<tbody>\n",
+       "\t<tr><td>Commercial Areas      </td><td> 8246</td></tr>\n",
+       "\t<tr><td>Group/Shared Home     </td><td>  123</td></tr>\n",
+       "\t<tr><td>Open/Public Spaces    </td><td> 6424</td></tr>\n",
+       "\t<tr><td>Others                </td><td>  538</td></tr>\n",
+       "\t<tr><td>Public Institutions   </td><td>  668</td></tr>\n",
+       "\t<tr><td>Residential Structures</td><td>15120</td></tr>\n",
+       "\t<tr><td>Transportation        </td><td>  714</td></tr>\n",
+       "</tbody>\n",
+       "</table>\n"
+      ],
+      "text/latex": [
+       "A tibble: 7 × 2\n",
+       "\\begin{tabular}{ll}\n",
+       " location & total\\_robberies\\\\\n",
+       " <chr> & <int>\\\\\n",
+       "\\hline\n",
+       "\t Commercial Areas       &  8246\\\\\n",
+       "\t Group/Shared Home      &   123\\\\\n",
+       "\t Open/Public Spaces     &  6424\\\\\n",
+       "\t Others                 &   538\\\\\n",
+       "\t Public Institutions    &   668\\\\\n",
+       "\t Residential Structures & 15120\\\\\n",
+       "\t Transportation         &   714\\\\\n",
+       "\\end{tabular}\n"
+      ],
+      "text/markdown": [
+       "\n",
+       "A tibble: 7 × 2\n",
+       "\n",
+       "| location &lt;chr&gt; | total_robberies &lt;int&gt; |\n",
+       "|---|---|\n",
+       "| Commercial Areas       |  8246 |\n",
+       "| Group/Shared Home      |   123 |\n",
+       "| Open/Public Spaces     |  6424 |\n",
+       "| Others                 |   538 |\n",
+       "| Public Institutions    |   668 |\n",
+       "| Residential Structures | 15120 |\n",
+       "| Transportation         |   714 |\n",
+       "\n"
+      ],
+      "text/plain": [
+       "  location               total_robberies\n",
+       "1 Commercial Areas        8246          \n",
+       "2 Group/Shared Home        123          \n",
+       "3 Open/Public Spaces      6424          \n",
+       "4 Others                   538          \n",
+       "5 Public Institutions      668          \n",
+       "6 Residential Structures 15120          \n",
+       "7 Transportation           714          "
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    }
+   ],
+   "source": [
+    "location_data <- bike_data %>%\n",
+    "  group_by(location) %>%\n",
+    "  summarize(total_robberies = n())\n",
+    "location_data"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 45,
+   "id": "3b9d40e1",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2025-07-21T02:26:11.142460Z",
+     "iopub.status.busy": "2025-07-21T02:26:11.140834Z",
+     "iopub.status.idle": "2025-07-21T02:26:11.170732Z",
+     "shell.execute_reply": "2025-07-21T02:26:11.169062Z"
+    },
+    "papermill": {
+     "duration": 0.056714,
+     "end_time": "2025-07-21T02:26:11.173080",
+     "exception": false,
+     "start_time": "2025-07-21T02:26:11.116366",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "<table class=\"dataframe\">\n",
+       "<caption>A tibble: 7 × 3</caption>\n",
+       "<thead>\n",
+       "\t<tr><th scope=col>location</th><th scope=col>total_robberies</th><th scope=col>percentage</th></tr>\n",
+       "\t<tr><th scope=col>&lt;chr&gt;</th><th scope=col>&lt;int&gt;</th><th scope=col>&lt;dbl&gt;</th></tr>\n",
+       "</thead>\n",
+       "<tbody>\n",
+       "\t<tr><td>Commercial Areas      </td><td> 8246</td><td>25.90</td></tr>\n",
+       "\t<tr><td>Group/Shared Home     </td><td>  123</td><td> 0.39</td></tr>\n",
+       "\t<tr><td>Open/Public Spaces    </td><td> 6424</td><td>20.18</td></tr>\n",
+       "\t<tr><td>Others                </td><td>  538</td><td> 1.69</td></tr>\n",
+       "\t<tr><td>Public Institutions   </td><td>  668</td><td> 2.10</td></tr>\n",
+       "\t<tr><td>Residential Structures</td><td>15120</td><td>47.50</td></tr>\n",
+       "\t<tr><td>Transportation        </td><td>  714</td><td> 2.24</td></tr>\n",
+       "</tbody>\n",
+       "</table>\n"
+      ],
+      "text/latex": [
+       "A tibble: 7 × 3\n",
+       "\\begin{tabular}{lll}\n",
+       " location & total\\_robberies & percentage\\\\\n",
+       " <chr> & <int> & <dbl>\\\\\n",
+       "\\hline\n",
+       "\t Commercial Areas       &  8246 & 25.90\\\\\n",
+       "\t Group/Shared Home      &   123 &  0.39\\\\\n",
+       "\t Open/Public Spaces     &  6424 & 20.18\\\\\n",
+       "\t Others                 &   538 &  1.69\\\\\n",
+       "\t Public Institutions    &   668 &  2.10\\\\\n",
+       "\t Residential Structures & 15120 & 47.50\\\\\n",
+       "\t Transportation         &   714 &  2.24\\\\\n",
+       "\\end{tabular}\n"
+      ],
+      "text/markdown": [
+       "\n",
+       "A tibble: 7 × 3\n",
+       "\n",
+       "| location &lt;chr&gt; | total_robberies &lt;int&gt; | percentage &lt;dbl&gt; |\n",
+       "|---|---|---|\n",
+       "| Commercial Areas       |  8246 | 25.90 |\n",
+       "| Group/Shared Home      |   123 |  0.39 |\n",
+       "| Open/Public Spaces     |  6424 | 20.18 |\n",
+       "| Others                 |   538 |  1.69 |\n",
+       "| Public Institutions    |   668 |  2.10 |\n",
+       "| Residential Structures | 15120 | 47.50 |\n",
+       "| Transportation         |   714 |  2.24 |\n",
+       "\n"
+      ],
+      "text/plain": [
+       "  location               total_robberies percentage\n",
+       "1 Commercial Areas        8246           25.90     \n",
+       "2 Group/Shared Home        123            0.39     \n",
+       "3 Open/Public Spaces      6424           20.18     \n",
+       "4 Others                   538            1.69     \n",
+       "5 Public Institutions      668            2.10     \n",
+       "6 Residential Structures 15120           47.50     \n",
+       "7 Transportation           714            2.24     "
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    }
+   ],
+   "source": [
+    "location_data <- location_data %>% mutate(percentage = round((total_robberies / sum(total_robberies)) * 100,2))\n",
+    "location_data"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 46,
+   "id": "267580b9",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2025-07-21T02:26:11.221657Z",
+     "iopub.status.busy": "2025-07-21T02:26:11.220138Z",
+     "iopub.status.idle": "2025-07-21T02:26:11.238012Z",
+     "shell.execute_reply": "2025-07-21T02:26:11.236279Z"
+    },
+    "papermill": {
+     "duration": 0.044923,
+     "end_time": "2025-07-21T02:26:11.240448",
+     "exception": false,
+     "start_time": "2025-07-21T02:26:11.195525",
      "status": "completed"
     },
     "tags": []
    },
    "outputs": [],
-   "source": []
+   "source": [
+    "\n",
+    "max_location <- location_data$location[max_index]\n",
+    "max_valor_location <- location_data$total_robberies[max_index]\n",
+    "max_percent_location <- location_data$percentage[max_index]\n",
+    "\n"
+   ]
   },
   {
-   "cell_type": "markdown",
-   "id": "dea3f789",
+   "cell_type": "code",
+   "execution_count": 47,
+   "id": "79e007cd",
    "metadata": {
+    "execution": {
+     "iopub.execute_input": "2025-07-21T02:26:11.289449Z",
+     "iopub.status.busy": "2025-07-21T02:26:11.287966Z",
+     "iopub.status.idle": "2025-07-21T02:26:11.306274Z",
+     "shell.execute_reply": "2025-07-21T02:26:11.304541Z"
+    },
     "papermill": {
-     "duration": 0.021797,
-     "end_time": "2025-07-18T12:59:30.066742",
+     "duration": 0.046108,
+     "end_time": "2025-07-21T02:26:11.308773",
      "exception": false,
-     "start_time": "2025-07-18T12:59:30.044945",
+     "start_time": "2025-07-21T02:26:11.262665",
      "status": "completed"
     },
     "tags": []
    },
-   "source": []
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "'La ubicación con mayor cantidad de robos fue Open/Public Spaces con 6424 lo que representa: 20.18 del total'"
+      ],
+      "text/latex": [
+       "'La ubicación con mayor cantidad de robos fue Open/Public Spaces con 6424 lo que representa: 20.18 del total'"
+      ],
+      "text/markdown": [
+       "'La ubicación con mayor cantidad de robos fue Open/Public Spaces con 6424 lo que representa: 20.18 del total'"
+      ],
+      "text/plain": [
+       "[1] \"La ubicación con mayor cantidad de robos fue Open/Public Spaces con 6424 lo que representa: 20.18 del total\""
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    }
+   ],
+   "source": [
+    "max_location_value_percent <- paste(\"La ubicación con mayor cantidad de robos fue\", \n",
+    "                  max_location, \"con\", max_valor_location, \n",
+    "                       \"lo que representa:\",max_percent_location, \"del total\")\n",
+    "max_location_value_percent"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "b3cab314",
+   "metadata": {
+    "papermill": {
+     "duration": 0.022767,
+     "end_time": "2025-07-21T02:26:11.354186",
+     "exception": false,
+     "start_time": "2025-07-21T02:26:11.331419",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "source": [
+    "3. ¿En qué región de Toronto el valor mediano o la mediana de las bicicletas robadas es el más alto? Almacena tus hallazgos como una variable de tipo cadena, region (la región puede ser un nombre real o un código de región, es decir, \"1\", \"2\", \"3\", ...)."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 48,
+   "id": "70089c3f",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2025-07-21T02:26:11.404178Z",
+     "iopub.status.busy": "2025-07-21T02:26:11.402563Z",
+     "iopub.status.idle": "2025-07-21T02:26:11.441108Z",
+     "shell.execute_reply": "2025-07-21T02:26:11.439340Z"
+    },
+    "papermill": {
+     "duration": 0.066614,
+     "end_time": "2025-07-21T02:26:11.443480",
+     "exception": false,
+     "start_time": "2025-07-21T02:26:11.376866",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "<table class=\"dataframe\">\n",
+       "<caption>A tibble: 6 × 2</caption>\n",
+       "<thead>\n",
+       "\t<tr><th scope=col>neighborhood</th><th scope=col>median_robberies</th></tr>\n",
+       "\t<tr><th scope=col>&lt;chr&gt;</th><th scope=col>&lt;dbl&gt;</th></tr>\n",
+       "</thead>\n",
+       "<tbody>\n",
+       "\t<tr><td>Agincourt North (129)             </td><td>349.995</td></tr>\n",
+       "\t<tr><td>Agincourt South-Malvern West (128)</td><td>515.000</td></tr>\n",
+       "\t<tr><td>Alderwood (20)                    </td><td>800.000</td></tr>\n",
+       "\t<tr><td>Annex (95)                        </td><td>700.000</td></tr>\n",
+       "\t<tr><td>Banbury-Don Mills (42)            </td><td>500.000</td></tr>\n",
+       "\t<tr><td>Bathurst Manor (34)               </td><td>700.000</td></tr>\n",
+       "</tbody>\n",
+       "</table>\n"
+      ],
+      "text/latex": [
+       "A tibble: 6 × 2\n",
+       "\\begin{tabular}{ll}\n",
+       " neighborhood & median\\_robberies\\\\\n",
+       " <chr> & <dbl>\\\\\n",
+       "\\hline\n",
+       "\t Agincourt North (129)              & 349.995\\\\\n",
+       "\t Agincourt South-Malvern West (128) & 515.000\\\\\n",
+       "\t Alderwood (20)                     & 800.000\\\\\n",
+       "\t Annex (95)                         & 700.000\\\\\n",
+       "\t Banbury-Don Mills (42)             & 500.000\\\\\n",
+       "\t Bathurst Manor (34)                & 700.000\\\\\n",
+       "\\end{tabular}\n"
+      ],
+      "text/markdown": [
+       "\n",
+       "A tibble: 6 × 2\n",
+       "\n",
+       "| neighborhood &lt;chr&gt; | median_robberies &lt;dbl&gt; |\n",
+       "|---|---|\n",
+       "| Agincourt North (129)              | 349.995 |\n",
+       "| Agincourt South-Malvern West (128) | 515.000 |\n",
+       "| Alderwood (20)                     | 800.000 |\n",
+       "| Annex (95)                         | 700.000 |\n",
+       "| Banbury-Don Mills (42)             | 500.000 |\n",
+       "| Bathurst Manor (34)                | 700.000 |\n",
+       "\n"
+      ],
+      "text/plain": [
+       "  neighborhood                       median_robberies\n",
+       "1 Agincourt North (129)              349.995         \n",
+       "2 Agincourt South-Malvern West (128) 515.000         \n",
+       "3 Alderwood (20)                     800.000         \n",
+       "4 Annex (95)                         700.000         \n",
+       "5 Banbury-Don Mills (42)             500.000         \n",
+       "6 Bathurst Manor (34)                700.000         "
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    }
+   ],
+   "source": [
+    "neighborhood_data <- bike_data %>%\n",
+    "  group_by(neighborhood\t) %>%\n",
+    "  summarize(median_robberies = median(bike_cost, na.rm = TRUE))\n",
+    "head(neighborhood_data)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 49,
+   "id": "914bc12e",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2025-07-21T02:26:11.492769Z",
+     "iopub.status.busy": "2025-07-21T02:26:11.491200Z",
+     "iopub.status.idle": "2025-07-21T02:26:11.506370Z",
+     "shell.execute_reply": "2025-07-21T02:26:11.504616Z"
+    },
+    "papermill": {
+     "duration": 0.042601,
+     "end_time": "2025-07-21T02:26:11.508870",
+     "exception": false,
+     "start_time": "2025-07-21T02:26:11.466269",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [],
+   "source": [
+    "max_etiqueta <- neighborhood_data$neighborhood[max_index]\n",
+    "max_valor <- neighborhood_data$median_robberies[max_index]"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 50,
+   "id": "670053bb",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2025-07-21T02:26:11.558029Z",
+     "iopub.status.busy": "2025-07-21T02:26:11.556408Z",
+     "iopub.status.idle": "2025-07-21T02:26:11.576351Z",
+     "shell.execute_reply": "2025-07-21T02:26:11.574502Z"
+    },
+    "papermill": {
+     "duration": 0.047271,
+     "end_time": "2025-07-21T02:26:11.578695",
+     "exception": false,
+     "start_time": "2025-07-21T02:26:11.531424",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "'La región con la mediana más alto es con menor número de robos fue: Alderwood (20) con 800'"
+      ],
+      "text/latex": [
+       "'La región con la mediana más alto es con menor número de robos fue: Alderwood (20) con 800'"
+      ],
+      "text/markdown": [
+       "'La región con la mediana más alto es con menor número de robos fue: Alderwood (20) con 800'"
+      ],
+      "text/plain": [
+       "[1] \"La región con la mediana más alto es con menor número de robos fue: Alderwood (20) con 800\""
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    }
+   ],
+   "source": [
+    "\n",
+    "max_value_region <- paste(\"La región con la mediana más alto es con menor número de robos fue:\", \n",
+    "                  max_etiqueta, \"con\", max_valor)\n",
+    "max_value_region"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "9defe5fc",
+   "metadata": {
+    "papermill": {
+     "duration": 0.023134,
+     "end_time": "2025-07-21T02:26:11.625839",
+     "exception": false,
+     "start_time": "2025-07-21T02:26:11.602705",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "source": [
+    "**4. ¿Qué curso de acción recomendarías a la estación de policía basándote en tus hallazgos? Almacena tu recomendación como una variable de tipo cadena, action.**"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 51,
+   "id": "b7fa9c0e",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2025-07-21T02:26:11.676091Z",
+     "iopub.status.busy": "2025-07-21T02:26:11.674395Z",
+     "iopub.status.idle": "2025-07-21T02:26:11.688271Z",
+     "shell.execute_reply": "2025-07-21T02:26:11.686488Z"
+    },
+    "papermill": {
+     "duration": 0.042058,
+     "end_time": "2025-07-21T02:26:11.691150",
+     "exception": false,
+     "start_time": "2025-07-21T02:26:11.649092",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [],
+   "source": [
+    "action <- ''"
+   ]
   }
  ],
  "metadata": {
@@ -3803,14 +4252,14 @@
   },
   "papermill": {
    "default_parameters": {},
-   "duration": 313.048197,
-   "end_time": "2025-07-18T12:59:30.211508",
+   "duration": 312.051912,
+   "end_time": "2025-07-21T02:26:11.837143",
    "environment_variables": {},
    "exception": null,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
-   "start_time": "2025-07-18T12:54:17.163311",
+   "start_time": "2025-07-21T02:20:59.785231",
    "version": "2.6.0"
   }
  },
